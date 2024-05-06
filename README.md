@@ -12,19 +12,19 @@ This is a simple Employee Management System built using React and Material-UI.
 
 1. Clone the repository:
 
-git clone https://github.com/amirsahebi/Gita_Task
+    git clone https://github.com/amirsahebi/Gita_Task
 
 2. Navigate to the project directory:
 
-cd employee-management-system
+    cd employee-management-system
 
 3. Install dependencies:
 
-npm install
+    npm install
 
 4. Start the application:
 
-npm start
+    npm start
 
 ## Screenshots
 
